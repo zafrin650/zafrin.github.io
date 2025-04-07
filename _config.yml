@@ -8,17 +8,9 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/zafrin"
+footer_text: "Built using Ankit Sultana's Researcher Theme"
 
 sass:
     style: compressed
     sass_dir: _sass
-
-nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
